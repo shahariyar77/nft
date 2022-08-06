@@ -1,0 +1,163 @@
+/* laptop */
+@media only screen and (min-device-width:992px) and (max-device-width:1199px){
+    .social-icon img {
+        width: 37px;
+    }
+    .single-features-items {
+        padding: 0px;
+    }
+    .gaming-area .section-tittle h2 {
+        font-size: 60px;
+    }
+
+}
+
+/* Tablet & mobile Layout: 768px. */
+@media only screen and (max-width: 991px){
+    .main-manu li a {
+        padding: 0 8px;
+    }
+    li.site-btn {
+        margin-left: 8px;
+    }
+    li.site-btn a {
+        padding: 11px 23px;
+    }
+    .left-hero {
+        padding-left: 0;
+    }
+    .social-icon img {
+        width: 33px;
+    }
+    .single-features-items {
+        margin-bottom: 25px;
+    }
+    .card-img img {
+        padding: 1rem;
+    }
+    a.hero-btn {
+        padding: 10px 23px;
+    }
+    .why-new-img {
+        text-align: center;
+        margin-bottom: 50px;
+    }
+    .discover-area .section-tittle h2 {
+        font-size: 38px;
+    }
+    .gaming-area .section-tittle h2 {
+        font-size:38px;
+    }
+    .mb {
+        margin-bottom: 92px;
+    }
+    .charity-img {
+        margin-top: 50px;
+    }
+    .main-fotter {
+        flex-direction: column;
+    }
+}
+
+
+/* mobile device */
+@media only screen and (max-width: 767px){
+    .chatbox {
+        right: 0px;
+        bottom: 0;
+    }
+    .chatbox__support {
+        height: 380px;
+        width: 100%;
+        
+    }
+
+
+
+    .header-bar{
+        display: block;
+    }
+    .offcanvas-manu{
+        display: block;
+    }
+    .header-bar{
+        display: block;
+        }
+
+.offcanvas-manu{
+    display: block;
+}
+.right-icon {
+    display: none;
+  }
+  .main-manu {
+    display: none;
+}
+.main-hero {
+    flex-direction: column;
+   
+}
+.left-hero {
+    width: 100%;
+}
+.left-hero, .right-hero{
+    padding-left: 6%;
+}
+.left-hero h1 {
+    font-size:46px;
+}
+.right-hero {
+    width: 100%;
+    margin: 50px 0;
+}
+.about-img {
+    margin-bottom: 50px;
+}
+a.hero-btn {
+    padding: 10px 15px;
+}
+.card-img {
+    margin-top: 50px;
+}
+.why-new-content {
+    padding: 0;
+}
+.check-area p {
+    display: flex;
+}
+.discover-img {
+    margin-top: 50px;
+}
+.container.line {
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+.gaming-img {
+    margin-bottom: 50px;
+}
+.all-chart-area {
+    flex-direction: column;
+}
+.single-table {
+    margin-bottom: 50px;
+}
+.featured-area .section-tittle h2 {
+    font-size: 52px;
+}
+.faq-area .section-tittle h2 {
+    font-size: 39px;
+}
+.sinlge-blog-item {
+    padding-bottom: 50px;
+}
+.single-foter-item.itm1 {
+    width: 100%;
+}
+.single-foter-item {
+    width: 100%;
+}
+.section-tittle h2 {
+    font-size: 3rem;
+}
+
+}
